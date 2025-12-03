@@ -92,3 +92,11 @@ A user-friendly Gradio interface was built to provide real-time delivery time pr
 - Machine learning models for delivery time prediction
 
 - Interactive prediction web app
+
+## Citations
+
+https://scikit-learn.org/stable/index.html
+
+https://www.geeksforgeeks.org/artificial-intelligence/python-creating-user-interfaces-for-ai-models-using-gradio/
+
+ChatGPT
